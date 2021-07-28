@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Nikolai Krasheninnikov | rsschool-2021Q3-cv</title>
+    
 <meta name="generator" content="Jekyll v3.9.0" />
 <meta property="og:title" content="Nikolai Krasheninnikov" />
 <meta property="og:locale" content="en_US" />
