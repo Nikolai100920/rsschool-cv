@@ -11,10 +11,6 @@
 <link rel="canonical" href="https://nikolai100920.github.io/rsschool-2021Q3-cv/cv.html" />
 <meta property="og:url" content="https://nikolai100920.github.io/rsschool-2021Q3-cv/cv.html" />
 <meta property="og:site_name" content="rsschool-2021Q3-cv" />
-<script type="application/ld+json">
-{"@type":"WebPage","headline":"Nikolai Krasheninnikov","url":"https://nikolai100920.github.io/rsschool-2021Q3-cv/cv.html","@context":"https://schema.org"}</script>
-    
-    <link rel="stylesheet" href="/rsschool-2021Q3-cv/assets/css/style.css?v=b715f71f91c2aa353842c2d90ea077f72a6c675e">
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
