@@ -85,12 +85,6 @@
 <h2 id="foreign-language">Foreign language</h2>
 
 <p>English (B2)</p>
-
-
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
     
   </body>
 </html>
