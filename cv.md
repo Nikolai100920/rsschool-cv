@@ -15,11 +15,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://nikolai100920.github.io/rsschool-2021Q3-cv/">rsschool-2021Q3-cv</a></h1>
-      
-
-      <h2 id="nikolai-krasheninnikov">Nikolai Krasheninnikov</h2>
-
+     
 <h2 id="personal-infocontacts">Personal info/contacts</h2>
 
 <p><strong>Country:</strong> Russia</p>
